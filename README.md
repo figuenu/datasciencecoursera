@@ -1,4 +1,4 @@
-data-science
-============
+datasciencecoursera
+===================
 
 Repo for data-science courses
